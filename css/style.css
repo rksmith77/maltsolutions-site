@@ -96,8 +96,8 @@ li { margin-bottom: 0.35em; }
 .btn:active { transform: translateY(1px); }
 .btn-primary { background: var(--brand); color: #fff; }
 .btn-primary:hover { background: var(--brand-dark); }
-.btn-outline { background: transparent; color: #fff; border: 1.5px solid rgba(255,255,255,0.7); }
-.btn-outline:hover { background: rgba(255,255,255,0.1); border-color: #fff; }
+.btn-outline { background: rgba(255,255,255,0.12); color: #fff; border: 2px solid #fff; }
+.btn-outline:hover { background: rgba(255,255,255,0.22); }
 .btn-ghost { background: transparent; color: var(--brand-dark); border: 1.5px solid var(--brand); }
 .btn-ghost:hover { background: var(--brand); color: #fff; }
 
